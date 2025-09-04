@@ -29,13 +29,11 @@ else
 fi
 
 # Caption
-CAPTION="*A22-$DATE*
+CAPTION="*A226B-$DATE*
 \`\`\`
 LocalVersion :
 $KERNEL_VER
 \`\`\`
-[KernelSU-Manajer](https://github.com/rsuntk/KernelSU.git)
-*Flash via TWRP only*
 "
 
 # Upload to Telegram
